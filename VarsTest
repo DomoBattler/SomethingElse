@@ -1,2 +1,20 @@
-newvar - "find":stat.figure1
-newvar - "stay":"stat.figure2
+newvar - "find": stat.figure1
+newvar - "stay": stat.figure2
+newvar - "System23": System.Programs.data.applications.Documents.ThisPc.LocalDisk.Windows.System32
+
+find = System23 if do
+  ://
+    ://
+delcom.32
+  fileshare = off
+  startsystem = off
+  varfind = off
+end
+  end
+  
+windvar -= Stop
+  mediaplayer/files.system = -17.00000
+  
+github.media = true/
+  end
+   end
